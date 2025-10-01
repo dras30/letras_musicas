@@ -17,7 +17,7 @@ def pesquisar_letra(banda, musica):
 # ======================
 
 # Título centralizado
-st.markdown("<h1 style='text-align: center; color: darkblue;'>🎵 Letras de Música</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: white;'>🎵 Letras de Música 🎵</h1>", unsafe_allow_html=True)
 st.markdown("<h4 style='text-align: center; color: gray;'>Encontre letras de suas músicas favoritas!</h4>", unsafe_allow_html=True)
 
 # Imagem centralizada
