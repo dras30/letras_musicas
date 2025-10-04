@@ -1,4 +1,4 @@
-# letras_musicas
+# letras_musicas agora é um APP inspirado em Streaming de musica!
 Este projeto é um aplicativo web feito com Streamlit que permite buscar letras de músicas de forma prática e visual. Ele integra a API do Spotify (para metadados) e pode ser facilmente expandido para buscar letras via APIs externas como Genius ou Vagalume.
 
 🛠 Tecnologias utilizadas
