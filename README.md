@@ -70,10 +70,8 @@ Visualizar letra e metadados
 📂 Estrutura do projeto
 letras-musica/
 ├─ app.py               # Código principal do Streamlit
-├─ utils.py             # Funções auxiliares (Spotify, Genius, etc.)
 ├─ requirements.txt     # Dependências do projeto
 ├─ README.md            # Este arquivo
-└─ assets/              # Imagens e outros arquivos estáticos
 
 📝 Funcionalidades
 
