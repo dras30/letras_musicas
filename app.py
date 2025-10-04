@@ -65,8 +65,6 @@ def campo_buscador(query, token, tipo="track"):
         st.error("erro na procura: " + res.text)
         return None
 
-# Credenciais do Spotify
-
 # Título e subtítulo
 st.set_page_config(page_title="SpotiWhy", page_icon="🎵", layout="centered")
 st.markdown("<h1 style='text-align:center; color:white;'>🎵 SpotiWhy - Buscador de Música</h1>", unsafe_allow_html=True)
@@ -198,4 +196,5 @@ if st.button("🔍 Pesquisar"):
                                 st.markdown(f"👤 {dono}")
                                 if link:
                                     st.markdown(f"[Abrir no Spotify]({link})")
+
                             st.divider()
